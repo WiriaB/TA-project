@@ -1,1 +1,2 @@
-# TA-project
+# Amazon
+Text Analytics Project
